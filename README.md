@@ -1,2 +1,3 @@
-# GRIP-Task-1-Object-Detection
-Task 1 during the internship at THE SPARKS FOUNDATION JULY '21
+# Object_detection
+
+Object detection is a computer vision technique that allows us to identify and locate objects in an image or video. With this kind of identification and localization, object detection can be used to count objects in a scene and determine and track their precise locations, all while accurately labeling them.
